@@ -1,2 +1,0 @@
-skip_dotnet_restore: false
-use_dotnet_exec: nuget
