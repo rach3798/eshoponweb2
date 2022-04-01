@@ -1,0 +1,10 @@
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.deps.json
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\bin\Debug\netstandard2.0\ApplicationCore.pdb
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.dll
+C:\Users\FM817GQ\OneDrive - EY\Desktop\Projects\Agent Based Scan\Eshop\EShop2.2\src\ApplicationCore\obj\Debug\netstandard2.0\ApplicationCore.pdb
